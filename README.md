@@ -19,7 +19,7 @@ This sample includes:
 * tests/ - this directory contains unit tests for your application
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 
-Getting Started
+Getting Started#
 ---------------
 
 These directions assume you want to develop on your development environment or a Cloud9 environment.
